@@ -138,7 +138,7 @@ export default function EconomicsSimulator() {
 
   return (
     <div className="p-6 max-w-6xl mx-auto bg-gray-50">
-      <h1 className="text-3xl font-bold mb-6 text-gray-800">Devlet Müdahalesi Ekonomi Simülatörü</h1>
+      <h1 className="text-3xl font-bold mb-6 text-gray-800">Devlet Müdahalesi Ekonomi Simülatörü - İktisat Öğrencileri</h1>
       
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-6">
         <div className="bg-white p-6 rounded-lg shadow">
